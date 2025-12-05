@@ -1,6 +1,6 @@
 package gemstones.gemstone;
 
-// class for representing Ruby - semi precious stone
+// class for representing Ruby - precious stone
 public class Ruby extends PreciousStone {
 
     private double clarity;
